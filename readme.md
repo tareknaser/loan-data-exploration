@@ -1,5 +1,4 @@
-# Loan Data
-## by Tarek Elsayed
+# Loan data exploration 
 
 
 ## Dataset
