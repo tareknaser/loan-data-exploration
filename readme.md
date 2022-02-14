@@ -28,6 +28,6 @@
 > Homeowners, on the other hand, had most of their small listings with a borrower rate of around 0.3.
 
 
-## Feedback
+## Data
 
-> I asked my big brother for feedback and showed him my presentation and I got a positive feedback from him saying that the visuals conveyed the message pretty well.
+> [Loan Data from Prosper](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1554486256021000) with [Prosper Data Dictionary to Explain Dataset's Variables](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0)
